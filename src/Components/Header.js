@@ -16,7 +16,7 @@ const Header = () =>  {
     <>
       <Navbar fixed="top" collapseOnSelect expand="md" bg="dark" variant="dark">  /Поправить fixed ="top"
         <Container>
-          {/* <Navbar.Brand href="#home">Navbar</Navbar.Brand> */}
+          <Navbar.Brand href="#home">Navbar</Navbar.Brand> 
           <Nav className="me-auto">
             <Nav.Link href="/">Home</Nav.Link>
             <Nav.Link href="features">Features</Nav.Link>

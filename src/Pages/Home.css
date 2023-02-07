@@ -1,7 +1,38 @@
 .space-title-box-h1{
     font-family: 'Work Sans', sans-serif;
 
+
     }
-.space-title-box-ins {
- margin-top: 7%;
+.space-title-box-p {
+    font-family: 'Work Sans', sans-serif;
+ margin-top: 3%;
+ margin-right: 7%;
+ margin-left: 10%;
+    }
+
+    .h1{
+        font-family: 'Work Sans', sans-serif;
+        font-size: 3%;
+    }
+    .space-page-content  {
+        font-family: 'Work Sans', sans-serif;
+        margin-right: 10%;
+        margin-left: 10%;
+        margin-top: 7%;
+        text-align: left;
+    }
+    .wp-block-spacer{
+        height:39px
+    }
+    .besten-casinos-ohne{
+        font-family: 'Work Sans', sans-serif;
+        margin-top: 3%;
+        margin-right: 7%;
+        margin-left: 10%;
+
+    }
+    .has-small-font-size {
+        font-family: 'Work Sans', sans-serif;
+        margin-right: 10%;
+        margin-left: 10%;
     }
